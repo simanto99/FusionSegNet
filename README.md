@@ -1,0 +1,2 @@
+# FusionSegNet
+FusionSegNet Architecture
